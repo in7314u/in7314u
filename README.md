@@ -3,7 +3,7 @@
 # in7314u
 
 [![X](https://img.shields.io/badge/@balefulshadowv9-0e0a1a?style=flat-square&logo=x&logoColor=white)](https://x.com/balefulshadowv9)
-[![Email](https://img.shields.io/badge/balefulshadowv9@gmail.com-0e0a1a?style=flat-square&logo=gmail&logoColor=a78bfa)](mailto:balefulshadowv9@gmail.com)
+[![Email](https://img.shields.io/badge/balefulshadow9@proton.me-0e0a1a?style=flat-square&logo=protonmail&logoColor=a78bfa)](mailto:balefulshadow9@proton.me)
 
 <br>
 
